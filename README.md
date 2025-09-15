@@ -1,0 +1,1 @@
+Brief Description: This program contains a main display with 9 options that allow you to see different ways an array can be implemented. The array first will initiated to 25 random numbers and then will be implemented in a variety of ways.
